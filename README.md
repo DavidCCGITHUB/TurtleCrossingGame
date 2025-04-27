@@ -29,7 +29,7 @@ To play the game locally:
    
 4. Make sure you have the turle module installed, if not:
    ```bash   
-   pip install pandas
+   pip install turtle
    ```   
 5. Run the game:
    ```bash
