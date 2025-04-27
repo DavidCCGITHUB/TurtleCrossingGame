@@ -26,7 +26,12 @@ To play the game locally:
    cd *location of the projects files*
    ```
 2. Make sure you have Python 3 installed.
-3. Run the game:
+   
+4. Make sure you have the turle module installed, if not:
+```bash   
+pip install pandas
+```   
+5. Run the game:
    ```bash
    python main.py
    ```
@@ -37,6 +42,7 @@ To play the game locally:
 ## Requirements
 
 Installed Python 3
+Installed module turtle
 
 ## License
 
