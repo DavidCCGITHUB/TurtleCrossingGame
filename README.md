@@ -44,6 +44,6 @@ To play the game locally:
 - Installed Python 3
 - Installed module turtle
 
-## License
+### Disclaimer
 
-This project is for educational purposes only
+This project was built for educational purposes only.
